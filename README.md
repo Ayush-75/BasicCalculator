@@ -13,5 +13,5 @@ The basic calculator app performs simple calculations effectively, although it i
 |  <img src = "ScreenShots/normal.png"/>  |  <img src = "ScreenShots/DarkMode.png"/>  
 
 # Demo apk
-[Link to app/build/outputs/apk/androidTest/debug folder]
+[![Calculator](https://img.shields.io/badge/Calculator✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Ayush-75/BasicCalculator/releases/download/v0.0.1-alpha/app-debug-androidTest.apk)
 
