@@ -1,7 +1,7 @@
 # Basic Calculator app 
 
 # Please note that 🚧this app is currently under development🚧.
-# The basic calculator app performs simple calculations effectively, although it is not designed for advanced Calculation.
+The basic calculator app performs simple calculations effectively, although it is not designed for advanced Calculation.
  
 
 
