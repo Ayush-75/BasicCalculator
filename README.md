@@ -12,6 +12,6 @@ The basic calculator app performs simple calculations effectively, although it i
 |---	|---
 |  <img src = "ScreenShots/normal.png"/>  |  <img src = "ScreenShots/DarkMode.png"/>  
 
-# Demo
-app/build/outputs/apk/androidTest/debug
+# Demo apk
+[Link to app/build/outputs/apk/androidTest/debug folder]
 
