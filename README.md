@@ -1,12 +1,16 @@
-# Project Title
+# Basic Calculator app 
 
-A brief description of what this project does and who it's for
+# Please note that 🚧this app is currently under development🚧.
+# The basic calculator app performs simple calculations effectively, although it is not designed for advanced functions.
+ 
 
 
 ## Screenshots
 
-## Demo
 
 |   Normal   |    DarkMode 
 |---	|---
-|  <img src = "ScreenShots/normal.png"/>  | <img src = "ScreenShots/DarkMode.png"/>  
+|  <img src = "ScreenShots/normal.png"/>  |  <img src = "ScreenShots/DarkMode.png"/>  
+
+# Demo
+
